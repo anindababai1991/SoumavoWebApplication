@@ -8,6 +8,9 @@ using System.Web.Http;
 
 namespace Soumavo.APILayer.Controllers
 {
+    /// <summary>
+    /// Soumavo Controller
+    /// </summary>
     public class SoumavoController : ApiController
     {
         /// <summary>
