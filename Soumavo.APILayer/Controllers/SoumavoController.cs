@@ -11,7 +11,7 @@ namespace Soumavo.APILayer.Controllers
     public class SoumavoController : ApiController
     {
         /// <summary>
-        /// See Employee Data
+        /// List All Employee Data
         /// </summary>
         /// <returns>List Of Employee</returns>
         [Route("Soumavo/SeeData")]
