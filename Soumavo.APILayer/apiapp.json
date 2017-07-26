@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "title": "Soumavo.APILayer",
   "summary": "",
-  "author": "",
+  "author": "Aninda",
   "endpoints": {
     "apiDefinition": "/swagger/docs/v1",
     "status": null
